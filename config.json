@@ -1,0 +1,9 @@
+{
+  "showInHouseAds": true,
+  "forceOwnPremium": false,
+  "inHouseAdPackageNames": [
+    "com.google.android.googlequicksearchbox",
+    "com.instagram.android",
+    "com.facebook.katana"
+  ]
+}
