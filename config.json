@@ -1,5 +1,5 @@
 {
-  "showInHouseAds": true,
+  "showInHouseAds": false,
   "forceOwnPremium": false,
   "inHouseAdPackageNames": [
     "com.instagram.android",
