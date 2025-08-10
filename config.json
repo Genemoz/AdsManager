@@ -1,6 +1,6 @@
 {
   "showInHouseAds": true,
-  "forceOwnPremium": false,
+  "forceOwnPremium": true,
   "inHouseAdPackageNames": [
     "com.instagram.android",
     "com.phonewalls.stockwallpapers",
